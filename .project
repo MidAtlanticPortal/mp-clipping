@@ -3,6 +3,7 @@
 	<name>mp-clipping</name>
 	<comment></comment>
 	<projects>
+		<project>madrona-manipulators</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

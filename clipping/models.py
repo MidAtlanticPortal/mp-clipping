@@ -1,7 +1,7 @@
 from django.db import models
 from django.contrib.gis.db import models
 from django.conf import settings
-from madrona.manipulators.models import BaseManipulatorGeometry
+from manipulators.models import BaseManipulatorGeometry
 
     
 class Marine(BaseManipulatorGeometry):
