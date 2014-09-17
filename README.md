@@ -1,3 +1,3 @@
-# mp-visualize
+# Clipping
 
-Features for Marine Planner
+Clipping for Marine Planner

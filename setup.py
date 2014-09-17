@@ -13,7 +13,7 @@ setup(
     install_requires=[],
     include_package_data=True,
     license='TBD',
-    description='Visualizer for Marine Planner',
+    description='Clipping for Marine Planner',
     long_description=README,
     url='http://www.pointnineseven.com/path/to/opensource/info',
     author='Point97, LLC',
